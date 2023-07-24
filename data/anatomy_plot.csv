@@ -1,0 +1,21 @@
+Term		Expected	Observed	Enrichment.Fold.Change	P.value	Q value	pos_or_neg
+BAG	WBbt:0003927	17	67	3.9	1.1E-21	3.4E-19	Positive interaction
+touch receptor neuron	WBbt:0005664	69	152	2.2	2.4E-19	3.6E-17	Positive interaction
+epithelial system	WBbt:0004096	180	299	1.7	1.8E-17	1.8E-15	Positive interaction
+outer labial sensillum	WBbt:0004540	100	173	1.7	4E-11	3E-09	Positive interaction
+inner labial sensillum	WBbt:0004543	16	46	2.8	1.7E-10	9.9E-09	Positive interaction
+PVD	WBbt:0008379	100	155	1.5	1.5E-07	7.3E-06	Positive interaction
+PHA	WBbt:0005244	4.6	18	3.9	1.8E-07	7.9E-06	Positive interaction
+ASG	WBbt:0006846	2.4	12	4.9	7.5E-07	2.8E-05	Positive interaction
+AQR	WBbt:0004545	1.4	9	6.4	9.2E-07	3.1E-05	Positive interaction
+nociceptor neuron	Wbbt:0008434	5.2	18	3.5	1.2E-06	3.4E-05	Positive interaction
+germ line	WBbt:0005784	280	459	1.6	9.1E-26	2.7E-23	Negative interaction
+reproductive system	WBbt:0005747	340	490	1.5	5.9E-17	8.8E-15	Negative interaction
+Z4.a	WBbt:0007025	25	57	2.3	3.3E-09	3.3E-07	Negative interaction
+Z1.p	WBbt:0007023	25	57	2.3	3.5E-09	3.3E-07	Negative interaction
+male distal tip cell	WBbt:0006864	25	57	2.3	4E-09	3.3E-07	Negative interaction
+reproductive tract	WBbt:0005744	76	124	1.6	5.2E-08	2.6E-06	Negative interaction
+Z2	WBbt:0004576	2.2	10	4.6	8.4E-06	0.00036	Negative interaction
+Z3	WBbt:0004575	2.2	10	4.6	8.4E-06	0.00036	Negative interaction
+Psub2	WBbt:0006873	1.9	9	4.8	1.4E-05	0.00048	Negative interaction
+oocyte	WBbt:0006797	6.9	19	2.8	2E-05	0.0006	Negative interaction
