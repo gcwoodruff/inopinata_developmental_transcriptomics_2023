@@ -1,0 +1,979 @@
+wbid,term,found
+WBGene00003808,nose movement increased WBPhenotype:0002303,1.0
+WBGene00003841,nose movement increased WBPhenotype:0002303,1.0
+WBGene00003058,nose movement increased WBPhenotype:0002303,1.0
+WBGene00001667,nose movement increased WBPhenotype:0002303,1.0
+WBGene00006411,nose movement increased WBPhenotype:0002303,1.0
+WBGene00001071,dumpy WBPhenotype:0000583,1.0
+WBGene00005016,dumpy WBPhenotype:0000583,1.0
+WBGene00016319,dumpy WBPhenotype:0000583,1.0
+WBGene00010948,dumpy WBPhenotype:0000583,1.0
+WBGene00009041,dumpy WBPhenotype:0000583,1.0
+WBGene00005017,dumpy WBPhenotype:0000583,1.0
+WBGene00001069,dumpy WBPhenotype:0000583,1.0
+WBGene00000853,dumpy WBPhenotype:0000583,1.0
+WBGene00044623,dumpy WBPhenotype:0000583,1.0
+WBGene00004219,dumpy WBPhenotype:0000583,1.0
+WBGene00001065,dumpy WBPhenotype:0000583,1.0
+WBGene00001076,dumpy WBPhenotype:0000583,1.0
+WBGene00004397,dumpy WBPhenotype:0000583,1.0
+WBGene00019154,dumpy WBPhenotype:0000583,1.0
+WBGene00009653,dumpy WBPhenotype:0000583,1.0
+WBGene00018572,dumpy WBPhenotype:0000583,1.0
+WBGene00001075,dumpy WBPhenotype:0000583,1.0
+WBGene00008256,dumpy WBPhenotype:0000583,1.0
+WBGene00000449,dumpy WBPhenotype:0000583,1.0
+WBGene00013130,dumpy WBPhenotype:0000583,1.0
+WBGene00013585,dumpy WBPhenotype:0000583,1.0
+WBGene00010830,dumpy WBPhenotype:0000583,1.0
+WBGene00001070,dumpy WBPhenotype:0000583,1.0
+WBGene00022577,dumpy WBPhenotype:0000583,1.0
+WBGene00022591,dumpy WBPhenotype:0000583,1.0
+WBGene00009041,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00010442,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00000853,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00044630,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00012261,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00000485,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00006526,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00018572,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00044620,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00022591,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00000902,pericellular component development variant WBPhenotype:0000200,1.0
+WBGene00003841,pausing increased WBPhenotype:0002310,1.0
+WBGene00001668,pausing increased WBPhenotype:0002310,1.0
+WBGene00001210,pausing increased WBPhenotype:0002310,1.0
+WBGene00006873,pausing increased WBPhenotype:0002310,1.0
+WBGene00003808,tail bend angle increased WBPhenotype:0002289,1.0
+WBGene00002094,tail bend angle increased WBPhenotype:0002289,1.0
+WBGene00012116,tail bend angle increased WBPhenotype:0002289,1.0
+WBGene00001677,tail bend angle increased WBPhenotype:0002289,1.0
+WBGene00000062,tail bend angle increased WBPhenotype:0002289,1.0
+WBGene00001667,tail bend angle increased WBPhenotype:0002289,1.0
+WBGene00001677,body posture amplitude increased WBPhenotype:0002293,1.0
+WBGene00000062,body posture amplitude increased WBPhenotype:0002293,1.0
+WBGene00001210,body posture amplitude increased WBPhenotype:0002293,1.0
+WBGene00001667,body posture amplitude increased WBPhenotype:0002293,1.0
+WBGene00006873,body posture amplitude increased WBPhenotype:0002293,1.0
+WBGene00019489,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001701,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001071,body morphology variant WBPhenotype:0000072,1.0
+WBGene00005016,body morphology variant WBPhenotype:0000072,1.0
+WBGene00016319,body morphology variant WBPhenotype:0000072,1.0
+WBGene00010948,body morphology variant WBPhenotype:0000072,1.0
+WBGene00003808,body morphology variant WBPhenotype:0000072,1.0
+WBGene00009041,body morphology variant WBPhenotype:0000072,1.0
+WBGene00006948,body morphology variant WBPhenotype:0000072,1.0
+WBGene00005017,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001069,body morphology variant WBPhenotype:0000072,1.0
+WBGene00000853,body morphology variant WBPhenotype:0000072,1.0
+WBGene00003841,body morphology variant WBPhenotype:0000072,1.0
+WBGene00006947,body morphology variant WBPhenotype:0000072,1.0
+WBGene00002094,body morphology variant WBPhenotype:0000072,1.0
+WBGene00044623,body morphology variant WBPhenotype:0000072,1.0
+WBGene00004219,body morphology variant WBPhenotype:0000072,1.0
+WBGene00006952,body morphology variant WBPhenotype:0000072,1.0
+WBGene00044621,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001065,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001076,body morphology variant WBPhenotype:0000072,1.0
+WBGene00044630,body morphology variant WBPhenotype:0000072,1.0
+WBGene00002393,body morphology variant WBPhenotype:0000072,1.0
+WBGene00012261,body morphology variant WBPhenotype:0000072,1.0
+WBGene00004393,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001677,body morphology variant WBPhenotype:0000072,1.0
+WBGene00004397,body morphology variant WBPhenotype:0000072,1.0
+WBGene00019154,body morphology variant WBPhenotype:0000072,1.0
+WBGene00003058,body morphology variant WBPhenotype:0000072,1.0
+WBGene00009653,body morphology variant WBPhenotype:0000072,1.0
+WBGene00000485,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001668,body morphology variant WBPhenotype:0000072,1.0
+WBGene00000062,body morphology variant WBPhenotype:0000072,1.0
+WBGene00003057,body morphology variant WBPhenotype:0000072,1.0
+WBGene00018572,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001210,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001075,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001667,body morphology variant WBPhenotype:0000072,1.0
+WBGene00008256,body morphology variant WBPhenotype:0000072,1.0
+WBGene00000449,body morphology variant WBPhenotype:0000072,1.0
+WBGene00013130,body morphology variant WBPhenotype:0000072,1.0
+WBGene00010642,body morphology variant WBPhenotype:0000072,1.0
+WBGene00044631,body morphology variant WBPhenotype:0000072,1.0
+WBGene00013585,body morphology variant WBPhenotype:0000072,1.0
+WBGene00006411,body morphology variant WBPhenotype:0000072,1.0
+WBGene00010830,body morphology variant WBPhenotype:0000072,1.0
+WBGene00006956,body morphology variant WBPhenotype:0000072,1.0
+WBGene00003966,body morphology variant WBPhenotype:0000072,1.0
+WBGene00003657,body morphology variant WBPhenotype:0000072,1.0
+WBGene00044620,body morphology variant WBPhenotype:0000072,1.0
+WBGene00006873,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001673,body morphology variant WBPhenotype:0000072,1.0
+WBGene00004224,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001070,body morphology variant WBPhenotype:0000072,1.0
+WBGene00013352,body morphology variant WBPhenotype:0000072,1.0
+WBGene00022577,body morphology variant WBPhenotype:0000072,1.0
+WBGene00000484,body morphology variant WBPhenotype:0000072,1.0
+WBGene00022591,body morphology variant WBPhenotype:0000072,1.0
+WBGene00001121,body morphology variant WBPhenotype:0000072,1.0
+WBGene00005016,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00004393,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00000485,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00000490,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00003018,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00003029,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00003886,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00000251,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00006873,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00000484,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00022591,sexually dimorphic morphology variant WBPhenotype:0001023,1.0
+WBGene00001701,movement variant WBPhenotype:0001206,1.0
+WBGene00001071,movement variant WBPhenotype:0001206,1.0
+WBGene00013457,movement variant WBPhenotype:0001206,1.0
+WBGene00005016,movement variant WBPhenotype:0001206,1.0
+WBGene00016319,movement variant WBPhenotype:0001206,1.0
+WBGene00003808,movement variant WBPhenotype:0001206,1.0
+WBGene00006948,movement variant WBPhenotype:0001206,1.0
+WBGene00010442,movement variant WBPhenotype:0001206,1.0
+WBGene00009998,movement variant WBPhenotype:0001206,1.0
+WBGene00011831,movement variant WBPhenotype:0001206,1.0
+WBGene00005017,movement variant WBPhenotype:0001206,1.0
+WBGene00001069,movement variant WBPhenotype:0001206,1.0
+WBGene00021156,movement variant WBPhenotype:0001206,1.0
+WBGene00004719,movement variant WBPhenotype:0001206,1.0
+WBGene00012939,movement variant WBPhenotype:0001206,1.0
+WBGene00003841,movement variant WBPhenotype:0001206,1.0
+WBGene00006947,movement variant WBPhenotype:0001206,1.0
+WBGene00002094,movement variant WBPhenotype:0001206,1.0
+WBGene00044623,movement variant WBPhenotype:0001206,1.0
+WBGene00004219,movement variant WBPhenotype:0001206,1.0
+WBGene00006952,movement variant WBPhenotype:0001206,1.0
+WBGene00044621,movement variant WBPhenotype:0001206,1.0
+WBGene00001065,movement variant WBPhenotype:0001206,1.0
+WBGene00007139,movement variant WBPhenotype:0001206,1.0
+WBGene00001076,movement variant WBPhenotype:0001206,1.0
+WBGene00044630,movement variant WBPhenotype:0001206,1.0
+WBGene00006761,movement variant WBPhenotype:0001206,1.0
+WBGene00000712,movement variant WBPhenotype:0001206,1.0
+WBGene00010573,movement variant WBPhenotype:0001206,1.0
+WBGene00012261,movement variant WBPhenotype:0001206,1.0
+WBGene00003552,movement variant WBPhenotype:0001206,1.0
+WBGene00012116,movement variant WBPhenotype:0001206,1.0
+WBGene00001677,movement variant WBPhenotype:0001206,1.0
+WBGene00004397,movement variant WBPhenotype:0001206,1.0
+WBGene00012257,movement variant WBPhenotype:0001206,1.0
+WBGene00019154,movement variant WBPhenotype:0001206,1.0
+WBGene00012256,movement variant WBPhenotype:0001206,1.0
+WBGene00003058,movement variant WBPhenotype:0001206,1.0
+WBGene00000485,movement variant WBPhenotype:0001206,1.0
+WBGene00006525,movement variant WBPhenotype:0001206,1.0
+WBGene00001668,movement variant WBPhenotype:0001206,1.0
+WBGene00000062,movement variant WBPhenotype:0001206,1.0
+WBGene00018572,movement variant WBPhenotype:0001206,1.0
+WBGene00001210,movement variant WBPhenotype:0001206,1.0
+WBGene00001667,movement variant WBPhenotype:0001206,1.0
+WBGene00001612,movement variant WBPhenotype:0001206,1.0
+WBGene00008256,movement variant WBPhenotype:0001206,1.0
+WBGene00019212,movement variant WBPhenotype:0001206,1.0
+WBGene00008605,movement variant WBPhenotype:0001206,1.0
+WBGene00001400,movement variant WBPhenotype:0001206,1.0
+WBGene00013130,movement variant WBPhenotype:0001206,1.0
+WBGene00044631,movement variant WBPhenotype:0001206,1.0
+WBGene00011238,movement variant WBPhenotype:0001206,1.0
+WBGene00013585,movement variant WBPhenotype:0001206,1.0
+WBGene00006411,movement variant WBPhenotype:0001206,1.0
+WBGene00009371,movement variant WBPhenotype:0001206,1.0
+WBGene00003029,movement variant WBPhenotype:0001206,1.0
+WBGene00016329,movement variant WBPhenotype:0001206,1.0
+WBGene00003886,movement variant WBPhenotype:0001206,1.0
+WBGene00000251,movement variant WBPhenotype:0001206,1.0
+WBGene00021095,movement variant WBPhenotype:0001206,1.0
+WBGene00001434,movement variant WBPhenotype:0001206,1.0
+WBGene00022816,movement variant WBPhenotype:0001206,1.0
+WBGene00012186,movement variant WBPhenotype:0001206,1.0
+WBGene00006956,movement variant WBPhenotype:0001206,1.0
+WBGene00003966,movement variant WBPhenotype:0001206,1.0
+WBGene00003657,movement variant WBPhenotype:0001206,1.0
+WBGene00044620,movement variant WBPhenotype:0001206,1.0
+WBGene00006873,movement variant WBPhenotype:0001206,1.0
+WBGene00001673,movement variant WBPhenotype:0001206,1.0
+WBGene00001070,movement variant WBPhenotype:0001206,1.0
+WBGene00016422,movement variant WBPhenotype:0001206,1.0
+WBGene00022577,movement variant WBPhenotype:0001206,1.0
+WBGene00000484,movement variant WBPhenotype:0001206,1.0
+WBGene00022591,movement variant WBPhenotype:0001206,1.0
+WBGene00007174,movement variant WBPhenotype:0001206,1.0
+WBGene00011971,movement variant WBPhenotype:0001206,1.0
+WBGene00001701,small WBPhenotype:0000229,1.0
+WBGene00005016,small WBPhenotype:0000229,1.0
+WBGene00006948,small WBPhenotype:0000229,1.0
+WBGene00001069,small WBPhenotype:0000229,1.0
+WBGene00003841,small WBPhenotype:0000229,1.0
+WBGene00006947,small WBPhenotype:0000229,1.0
+WBGene00002094,small WBPhenotype:0000229,1.0
+WBGene00004219,small WBPhenotype:0000229,1.0
+WBGene00006952,small WBPhenotype:0000229,1.0
+WBGene00044621,small WBPhenotype:0000229,1.0
+WBGene00044630,small WBPhenotype:0000229,1.0
+WBGene00004393,small WBPhenotype:0000229,1.0
+WBGene00019154,small WBPhenotype:0000229,1.0
+WBGene00000485,small WBPhenotype:0000229,1.0
+WBGene00001075,small WBPhenotype:0000229,1.0
+WBGene00044631,small WBPhenotype:0000229,1.0
+WBGene00013585,small WBPhenotype:0000229,1.0
+WBGene00006956,small WBPhenotype:0000229,1.0
+WBGene00003966,small WBPhenotype:0000229,1.0
+WBGene00003657,small WBPhenotype:0000229,1.0
+WBGene00044620,small WBPhenotype:0000229,1.0
+WBGene00006873,small WBPhenotype:0000229,1.0
+WBGene00001070,small WBPhenotype:0000229,1.0
+WBGene00000484,small WBPhenotype:0000229,1.0
+WBGene00001121,small WBPhenotype:0000229,1.0
+WBGene00012116,pausing decreased WBPhenotype:0002309,1.0
+WBGene00001677,pausing decreased WBPhenotype:0002309,1.0
+WBGene00003058,pausing decreased WBPhenotype:0002309,1.0
+WBGene00001667,pausing decreased WBPhenotype:0002309,1.0
+WBGene00006411,pausing decreased WBPhenotype:0002309,1.0
+WBGene00001673,pausing decreased WBPhenotype:0002309,1.0
+WBGene00010349,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00019395,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00012779,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00000241,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00022696,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00000485,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00000490,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00012673,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00003886,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00003657,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00000484,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00001121,ciliated neuron morphology variant WBPhenotype:0001526,1.0
+WBGene00004174,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00000608,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00000853,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00004153,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00006526,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00022103,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00010642,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00000695,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00010830,dauer constitutive WBPhenotype:0000012,1.0
+WBGene00006948,molt variant WBPhenotype:0002041,1.0
+WBGene00011831,molt variant WBPhenotype:0002041,1.0
+WBGene00012939,molt variant WBPhenotype:0002041,1.0
+WBGene00006947,molt variant WBPhenotype:0002041,1.0
+WBGene00044623,molt variant WBPhenotype:0002041,1.0
+WBGene00004219,molt variant WBPhenotype:0002041,1.0
+WBGene00006952,molt variant WBPhenotype:0002041,1.0
+WBGene00003552,molt variant WBPhenotype:0002041,1.0
+WBGene00019154,molt variant WBPhenotype:0002041,1.0
+WBGene00006526,molt variant WBPhenotype:0002041,1.0
+WBGene00008605,molt variant WBPhenotype:0002041,1.0
+WBGene00000251,molt variant WBPhenotype:0002041,1.0
+WBGene00021095,molt variant WBPhenotype:0002041,1.0
+WBGene00022816,molt variant WBPhenotype:0002041,1.0
+WBGene00012186,molt variant WBPhenotype:0002041,1.0
+WBGene00004224,molt variant WBPhenotype:0002041,1.0
+WBGene00016422,molt variant WBPhenotype:0002041,1.0
+WBGene00022591,molt variant WBPhenotype:0002041,1.0
+WBGene00011971,molt variant WBPhenotype:0002041,1.0
+WBGene00010349,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00001117,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00002987,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00003888,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00000485,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00006525,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00019640,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00000490,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00006526,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00012673,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00001612,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00001547,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00007260,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00016329,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00003886,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00000484,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00016165,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00000902,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00001121,chemosensory behavior variant WBPhenotype:0001049,1.0
+WBGene00011831,paralyzed WBPhenotype:0000644,1.0
+WBGene00044623,paralyzed WBPhenotype:0000644,1.0
+WBGene00004219,paralyzed WBPhenotype:0000644,1.0
+WBGene00012261,paralyzed WBPhenotype:0000644,1.0
+WBGene00019154,paralyzed WBPhenotype:0000644,1.0
+WBGene00008605,paralyzed WBPhenotype:0000644,1.0
+WBGene00016329,paralyzed WBPhenotype:0000644,1.0
+WBGene00021095,paralyzed WBPhenotype:0000644,1.0
+WBGene00022577,paralyzed WBPhenotype:0000644,1.0
+WBGene00022591,paralyzed WBPhenotype:0000644,1.0
+WBGene00001701,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001071,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00013457,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00005016,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00010349,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00016319,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003808,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006948,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00010442,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00009998,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00011831,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00005017,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001069,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000241,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00021156,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00004719,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00008201,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00004017,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012939,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003841,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006947,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00002094,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00044623,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00004219,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001117,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00002987,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006952,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00044621,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001065,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00007139,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001076,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00044630,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006761,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000712,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00010573,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012261,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00004393,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003552,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012116,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001677,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00004397,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012257,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00019154,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012256,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000969,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003058,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003888,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000485,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006525,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00019640,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001668,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000062,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000490,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006526,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012673,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00018572,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000968,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001210,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00011261,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001667,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001612,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00008256,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000449,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00019212,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003018,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00008605,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001400,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00013130,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00010642,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001547,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00044631,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00011238,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00013585,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006411,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00009371,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00007260,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003029,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00009844,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00008802,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00016329,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003886,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000251,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000440,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00021095,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001434,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00022816,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00012186,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006956,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003966,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00017400,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003657,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00044620,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006873,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001673,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001070,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00016149,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00016422,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00022577,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000484,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00016165,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00022591,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00006960,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00000902,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00007174,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00010898,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00001121,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00011971,behavior phenotype WBPhenotype:0000517,1.0
+WBGene00003808,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00003841,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00002094,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00012116,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00001677,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00003058,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00001668,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00000062,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00001210,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00001667,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00006411,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00003966,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00006873,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00001673,sinusoidal movement variant WBPhenotype:0004018,1.0
+WBGene00001701,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00006948,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00006947,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00004219,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00006952,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00006956,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00004224,intestinal vacuole WBPhenotype:0001428,1.0
+WBGene00003808,head bend angle increased WBPhenotype:0002286,1.0
+WBGene00003058,head bend angle increased WBPhenotype:0002286,1.0
+WBGene00001668,head bend angle increased WBPhenotype:0002286,1.0
+WBGene00001667,head bend angle increased WBPhenotype:0002286,1.0
+WBGene00006411,head bend angle increased WBPhenotype:0002286,1.0
+WBGene00001673,head bend angle increased WBPhenotype:0002286,1.0
+WBGene00001069,fat WBPhenotype:0000542,1.0
+WBGene00003841,fat WBPhenotype:0000542,1.0
+WBGene00001677,fat WBPhenotype:0000542,1.0
+WBGene00003058,fat WBPhenotype:0000542,1.0
+WBGene00001668,fat WBPhenotype:0000542,1.0
+WBGene00000062,fat WBPhenotype:0000542,1.0
+WBGene00001210,fat WBPhenotype:0000542,1.0
+WBGene00001667,fat WBPhenotype:0000542,1.0
+WBGene00003966,fat WBPhenotype:0000542,1.0
+WBGene00006873,fat WBPhenotype:0000542,1.0
+WBGene00001673,fat WBPhenotype:0000542,1.0
+WBGene00003841,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00012116,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00001677,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00003058,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00000062,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00001667,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00003966,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00001673,foraging hyperactive WBPhenotype:0000237,1.0
+WBGene00007325,nicotine hypersensitive WBPhenotype:0001202,1.0
+WBGene00044623,nicotine hypersensitive WBPhenotype:0001202,1.0
+WBGene00010830,nicotine hypersensitive WBPhenotype:0001202,1.0
+WBGene00012186,nicotine hypersensitive WBPhenotype:0001202,1.0
+WBGene00019489,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001701,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001071,body region phenotype WBPhenotype:0002557,1.0
+WBGene00005016,body region phenotype WBPhenotype:0002557,1.0
+WBGene00016319,body region phenotype WBPhenotype:0002557,1.0
+WBGene00010948,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003808,body region phenotype WBPhenotype:0002557,1.0
+WBGene00009041,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006948,body region phenotype WBPhenotype:0002557,1.0
+WBGene00010442,body region phenotype WBPhenotype:0002557,1.0
+WBGene00005017,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001069,body region phenotype WBPhenotype:0002557,1.0
+WBGene00000853,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003841,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006947,body region phenotype WBPhenotype:0002557,1.0
+WBGene00002094,body region phenotype WBPhenotype:0002557,1.0
+WBGene00044623,body region phenotype WBPhenotype:0002557,1.0
+WBGene00004219,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006952,body region phenotype WBPhenotype:0002557,1.0
+WBGene00044621,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001065,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001076,body region phenotype WBPhenotype:0002557,1.0
+WBGene00044630,body region phenotype WBPhenotype:0002557,1.0
+WBGene00002393,body region phenotype WBPhenotype:0002557,1.0
+WBGene00012261,body region phenotype WBPhenotype:0002557,1.0
+WBGene00004393,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001677,body region phenotype WBPhenotype:0002557,1.0
+WBGene00004397,body region phenotype WBPhenotype:0002557,1.0
+WBGene00019154,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003058,body region phenotype WBPhenotype:0002557,1.0
+WBGene00009653,body region phenotype WBPhenotype:0002557,1.0
+WBGene00000485,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001668,body region phenotype WBPhenotype:0002557,1.0
+WBGene00000062,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003057,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006526,body region phenotype WBPhenotype:0002557,1.0
+WBGene00018572,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001210,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001075,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001667,body region phenotype WBPhenotype:0002557,1.0
+WBGene00008256,body region phenotype WBPhenotype:0002557,1.0
+WBGene00000449,body region phenotype WBPhenotype:0002557,1.0
+WBGene00013130,body region phenotype WBPhenotype:0002557,1.0
+WBGene00010642,body region phenotype WBPhenotype:0002557,1.0
+WBGene00044631,body region phenotype WBPhenotype:0002557,1.0
+WBGene00013585,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006411,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003029,body region phenotype WBPhenotype:0002557,1.0
+WBGene00010830,body region phenotype WBPhenotype:0002557,1.0
+WBGene00000251,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006956,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003966,body region phenotype WBPhenotype:0002557,1.0
+WBGene00003657,body region phenotype WBPhenotype:0002557,1.0
+WBGene00044620,body region phenotype WBPhenotype:0002557,1.0
+WBGene00006873,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001673,body region phenotype WBPhenotype:0002557,1.0
+WBGene00004224,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001070,body region phenotype WBPhenotype:0002557,1.0
+WBGene00013352,body region phenotype WBPhenotype:0002557,1.0
+WBGene00022577,body region phenotype WBPhenotype:0002557,1.0
+WBGene00000484,body region phenotype WBPhenotype:0002557,1.0
+WBGene00022591,body region phenotype WBPhenotype:0002557,1.0
+WBGene00001121,body region phenotype WBPhenotype:0002557,1.0
+WBGene00005016,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00004393,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00000485,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00000490,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00003018,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00003886,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00000484,male nervous system morphology variant WBPhenotype:0001358,1.0
+WBGene00001117,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00000485,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00000490,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00001210,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00044631,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00003886,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00000484,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00006960,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00000902,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00001121,male mating efficiency reduced WBPhenotype:0000843,1.0
+WBGene00003808,amplitude of sinusoidal movement increased WBPhenotype:0002328,1.0
+WBGene00002094,amplitude of sinusoidal movement increased WBPhenotype:0002328,1.0
+WBGene00001668,amplitude of sinusoidal movement increased WBPhenotype:0002328,1.0
+WBGene00001667,amplitude of sinusoidal movement increased WBPhenotype:0002328,1.0
+WBGene00001673,amplitude of sinusoidal movement increased WBPhenotype:0002328,1.0
+WBGene00000241,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00001117,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00019154,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00000485,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00000062,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00000490,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00003886,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00000484,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00001121,antihelmintic response variant WBPhenotype:0001852,1.0
+WBGene00003808,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00003841,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00012116,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00001677,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00003058,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00001668,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00000062,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00001210,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00001667,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00006411,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00003966,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00006873,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00001673,velocity of movement variant WBPhenotype:0004025,1.0
+WBGene00003808,turning variant WBPhenotype:0002311,1.0
+WBGene00003841,turning variant WBPhenotype:0002311,1.0
+WBGene00006761,turning variant WBPhenotype:0002311,1.0
+WBGene00012116,turning variant WBPhenotype:0002311,1.0
+WBGene00001677,turning variant WBPhenotype:0002311,1.0
+WBGene00003058,turning variant WBPhenotype:0002311,1.0
+WBGene00001668,turning variant WBPhenotype:0002311,1.0
+WBGene00001210,turning variant WBPhenotype:0002311,1.0
+WBGene00001667,turning variant WBPhenotype:0002311,1.0
+WBGene00001612,turning variant WBPhenotype:0002311,1.0
+WBGene00001400,turning variant WBPhenotype:0002311,1.0
+WBGene00006411,turning variant WBPhenotype:0002311,1.0
+WBGene00003886,turning variant WBPhenotype:0002311,1.0
+WBGene00003966,turning variant WBPhenotype:0002311,1.0
+WBGene00006873,turning variant WBPhenotype:0002311,1.0
+WBGene00001673,turning variant WBPhenotype:0002311,1.0
+WBGene00000484,turning variant WBPhenotype:0002311,1.0
+WBGene00003808,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00003841,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00001677,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00001668,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00001667,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00006873,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00001673,coiling frequency increased WBPhenotype:0002300,1.0
+WBGene00003808,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00003841,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00012116,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00001677,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00003058,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00001668,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00001667,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00006411,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00003966,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00001673,backward point velocity increased WBPhenotype:0002325,1.0
+WBGene00019489,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007776,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022886,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001701,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010319,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001071,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013457,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00005016,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00005936,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008511,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010349,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016319,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008144,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010948,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003808,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007325,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004041,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011704,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009041,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003525,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013592,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019395,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004174,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006948,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009304,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018741,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007816,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00021496,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010442,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000521,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008963,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009998,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00005004,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011831,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003681,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000608,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00005017,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00021389,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001069,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012779,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000241,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00021156,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004719,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009717,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018275,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019198,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00021529,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011462,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001556,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020490,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008201,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022465,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017754,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006424,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004017,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022033,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008640,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009108,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000853,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000037,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00302974,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003841,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018472,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001429,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00014245,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006947,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00002094,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011083,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022071,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00044623,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007560,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004219,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001117,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00002987,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006952,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000003,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001962,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022696,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00044621,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001065,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006428,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010345,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004127,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009014,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012032,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007139,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001076,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00044630,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006761,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00002393,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000712,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010573,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00015952,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012261,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006633,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004393,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009818,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003552,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020855,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022837,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020945,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012116,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001677,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017950,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004974,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004397,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012257,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019154,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001432,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004153,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012256,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000969,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003058,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018640,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003888,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009653,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016933,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000485,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007170,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009205,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006525,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017645,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013264,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001668,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000062,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017998,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000220,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020194,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000490,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017416,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018213,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00005718,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003057,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006526,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00206502,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012673,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011530,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016700,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018572,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000034,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000968,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004154,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001210,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001734,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007996,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00195182,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011261,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001075,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001667,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001612,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016448,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007479,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012639,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00194710,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008256,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000449,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019212,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019751,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016619,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018268,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003018,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022103,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001475,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008605,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001400,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013130,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018406,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011471,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010642,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006612,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001547,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007490,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001976,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011434,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00044631,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000757,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020728,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011238,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013585,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011523,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012635,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000797,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022616,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018256,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006411,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009371,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011460,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007044,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013166,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007260,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013583,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000695,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003029,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009844,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006620,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022814,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010830,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016329,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004011,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003886,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000251,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000440,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00021095,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004133,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001726,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019979,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022180,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001434,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009107,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016805,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022816,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00012186,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006956,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003966,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016005,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010314,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017400,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009890,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003657,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00044620,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008707,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017446,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006873,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001673,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00009261,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00004224,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010267,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001070,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016149,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016422,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00013352,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022577,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001828,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018578,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020017,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000484,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011121,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001713,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016165,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00016180,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00022591,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00017755,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00006960,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000272,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00000902,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00206356,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00019376,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010084,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008314,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00003629,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00008277,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00007174,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00018727,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010898,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00001121,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00011971,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00020694,nematode phenotype WBPhenotype:0000886,1.0
+WBGene00010442,copulation variant WBPhenotype:0000647,1.0
+WBGene00008201,copulation variant WBPhenotype:0000647,1.0
+WBGene00044623,copulation variant WBPhenotype:0000647,1.0
+WBGene00001117,copulation variant WBPhenotype:0000647,1.0
+WBGene00044630,copulation variant WBPhenotype:0000647,1.0
+WBGene00004393,copulation variant WBPhenotype:0000647,1.0
+WBGene00003058,copulation variant WBPhenotype:0000647,1.0
+WBGene00000485,copulation variant WBPhenotype:0000647,1.0
+WBGene00000490,copulation variant WBPhenotype:0000647,1.0
+WBGene00001210,copulation variant WBPhenotype:0000647,1.0
+WBGene00011261,copulation variant WBPhenotype:0000647,1.0
+WBGene00003018,copulation variant WBPhenotype:0000647,1.0
+WBGene00044631,copulation variant WBPhenotype:0000647,1.0
+WBGene00009844,copulation variant WBPhenotype:0000647,1.0
+WBGene00003886,copulation variant WBPhenotype:0000647,1.0
+WBGene00044620,copulation variant WBPhenotype:0000647,1.0
+WBGene00000484,copulation variant WBPhenotype:0000647,1.0
+WBGene00006960,copulation variant WBPhenotype:0000647,1.0
+WBGene00000902,copulation variant WBPhenotype:0000647,1.0
+WBGene00010898,copulation variant WBPhenotype:0000647,1.0
+WBGene00001121,copulation variant WBPhenotype:0000647,1.0
+WBGene00011831,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00044623,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00007560,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00019154,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00012256,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00013585,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00009371,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00044620,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00022577,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00007174,age associated fluorescence increased WBPhenotype:0000467,1.0
+WBGene00010442,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00008201,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00044623,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00001117,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00044630,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00004393,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00003058,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00000485,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00000490,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00001210,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00011261,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00003018,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00044631,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00009844,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00003886,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00044620,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00000484,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00006960,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00000902,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00010898,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00001121,sexually dimorphic behavior variant WBPhenotype:0000821,1.0
+WBGene00019489,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00004174,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00008963,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00005004,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000608,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00018275,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00019198,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00006424,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000853,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000037,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00003841,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00014245,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00001117,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00002987,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00007139,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00004153,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000485,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00006525,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000490,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00006526,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00206502,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00011530,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00007479,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00019212,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00022103,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00010642,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00007490,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00007044,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00013166,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000695,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00006620,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00010830,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00003886,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00044620,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000484,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00022283,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00000902,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00003629,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00001121,larval physiology phenotype WBPhenotype:0001293,1.0
+WBGene00003808,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00003841,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00012116,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00001677,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00003058,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00001668,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00000062,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00001667,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00006411,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00001673,forward point velocity increased WBPhenotype:0002322,1.0
+WBGene00003841,reversal variant WBPhenotype:0002320,1.0
+WBGene00006761,reversal variant WBPhenotype:0002320,1.0
+WBGene00001677,reversal variant WBPhenotype:0002320,1.0
+WBGene00003058,reversal variant WBPhenotype:0002320,1.0
+WBGene00001668,reversal variant WBPhenotype:0002320,1.0
+WBGene00000062,reversal variant WBPhenotype:0002320,1.0
+WBGene00001210,reversal variant WBPhenotype:0002320,1.0
+WBGene00001667,reversal variant WBPhenotype:0002320,1.0
+WBGene00001612,reversal variant WBPhenotype:0002320,1.0
+WBGene00001400,reversal variant WBPhenotype:0002320,1.0
+WBGene00003966,reversal variant WBPhenotype:0002320,1.0
+WBGene00006873,reversal variant WBPhenotype:0002320,1.0
+WBGene00001673,reversal variant WBPhenotype:0002320,1.0
+WBGene00012116,path curvature decreased WBPhenotype:0002337,1.0
+WBGene00001677,path curvature decreased WBPhenotype:0002337,1.0
+WBGene00003058,path curvature decreased WBPhenotype:0002337,1.0
+WBGene00001668,path curvature decreased WBPhenotype:0002337,1.0
+WBGene00006411,path curvature decreased WBPhenotype:0002337,1.0
+WBGene00001673,path curvature decreased WBPhenotype:0002337,1.0
