@@ -1,0 +1,42 @@
+Term	Expected	Observed	Enrichment Fold Change	P value	Q value
+ciliated neuron morphology variant WBPhenotype:0001526	1.2	12	10	1.4e-10	3.2e-08
+movement variant WBPhenotype:0001206	47	89	1.9	8.9e-09	1.1e-06
+dumpy WBPhenotype:0000583	9.4	29	3.1	3.8e-08	3e-06
+copulation variant WBPhenotype:0000647	5.1	20	4	5.1e-08	3.1e-06
+sexually dimorphic behavior variant WBPhenotype:0000821	5.1	20	3.9	5.6e-08	3.1e-06
+chemosensory behavior variant WBPhenotype:0001049	5.6	21	3.8	6.2e-08	3.1e-06
+male mating efficiency reduced WBPhenotype:0000843	1.7	11	6.4	1.4e-07	4.7e-06
+body morphology variant WBPhenotype:0000072	33	65	2	1.5e-07	4.7e-06
+body region phenotype WBPhenotype:0002557	37	70	1.9	2e-07	5.4e-06
+antihelmintic response variant WBPhenotype:0001852	1.2	9	7.5	2.7e-07	6.5e-06
+pericellular component development variant WBPhenotype:0000200	2.5	13	5.1	2.7e-07	6.5e-06
+behavior phenotype WBPhenotype:0000517	75	119	1.6	6.3e-07	1.3e-05
+age associated fluorescence increased WBPhenotype:0000467	2.1	11	5.1	1.6e-06	2.9e-05
+fat WBPhenotype:0000542	3.1	13	4.3	2.6e-06	4.5e-05
+turning variant WBPhenotype:0002311	6.7	20	3	4.6e-06	7.4e-05
+molt variant WBPhenotype:0002041	6.7	20	3	4.9e-06	7.4e-05
+forward point velocity increased WBPhenotype:0002322	2.9	12	4.2	6.7e-06	9.4e-05
+backward point velocity increased WBPhenotype:0002325	3.1	12	3.8	1.7e-05	0.00023
+foraging hyperactive WBPhenotype:0000237	3.5	12	3.4	5.7e-05	0.00071
+body posture amplitude increased WBPhenotype:0002293	1.9	8	4.3	0.0001	0.0012
+coiling frequency increased WBPhenotype:0002300	2.8	10	3.6	0.00012	0.0014
+tail bend angle increased WBPhenotype:0002289	2	8	4.1	0.00015	0.0016
+intestinal vacuole WBPhenotype:0001428	1.6	7	4.5	0.00016	0.0016
+small WBPhenotype:0000229	15	29	2	0.00019	0.0019
+paralyzed WBPhenotype:0000644	4.3	12	2.8	0.00046	0.0044
+larval physiology phenotype WBPhenotype:0001293	22	37	1.7	0.00071	0.0066
+velocity of movement variant WBPhenotype:0004025	7.2	16	2.2	0.0011	0.0096
+amplitude of sinusoidal movement increased WBPhenotype:0002328	1.3	5	3.9	0.0017	0.014
+sexually dimorphic morphology variant WBPhenotype:0001023	5	12	2.4	0.0018	0.015
+reversal variant WBPhenotype:0002320	7.6	16	2.1	0.0019	0.015
+sinusoidal movement variant WBPhenotype:0004018	8.7	17	2	0.0032	0.024
+Q neuroblast lineage migration variant WBPhenotype:0000469	1.5	5	3.3	0.0043	0.032
+male nervous system morphology variant WBPhenotype:0001358	2.6	7	2.7	0.0043	0.032
+stress induced lethality variant WBPhenotype:0000139	1.6	5	3.2	0.0046	0.032
+head bend angle increased WBPhenotype:0002286	2.2	6	2.8	0.0061	0.042
+organism hypertonic lethality increased WBPhenotype:0001751	1.2	4	3.3	0.0075	0.05
+nicotine hypersensitive WBPhenotype:0001202	1.2	4	3.3	0.0075	0.05
+path curvature decreased WBPhenotype:0002337	2.4	6	2.5	0.011	0.066
+dauer constitutive WBPhenotype:0000012	3.1	7	2.3	0.012	0.074
+large WBPhenotype:0000319	5.1	10	2	0.014	0.084
+pausing decreased WBPhenotype:0002309	2.6	6	2.3	0.017	0.099
