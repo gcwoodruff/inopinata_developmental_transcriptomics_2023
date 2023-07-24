@@ -1,1 +1,7 @@
+List A: Top 10% of genes with significant species:stage interactions ordered by absolute value of interaction term (high to low)
 
+List B: Top 10% of genes with significant species:stage interactions ordered by value of interaction term (high to low; 
+top positive interactions) ; this is the positive interactions list
+
+List C: Bottom 10% of genes with significant species:stage interactions ordered by value of interaction term; 
+this is the negative interactions list
