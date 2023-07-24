@@ -198,11 +198,6 @@ while read F; do
   awk 'BEGIN {FS="\t"} {OFS="\t"} {print FILENAME,$0}' $F > $wkdir/04_salmon_quant/percent_mapped/01_awk/$F
 done < $wkdir/sample_list.txt
 
-	#huh, why does process shortreads log have retained reads for sample_8 but there are none in the fq.gz????
-	#I re-did stacks process shortreads in folder 05_re-do_stacks_process_shortreads and got the same result, hmm.
-
-	#anyway moving on for now.........
-
 cd $wkdir/04_salmon_quant/percent_mapped/01_awk/
 cat * > $wkdir/04_salmon_quant/percent_mapped/percent_mapped.txt
 
