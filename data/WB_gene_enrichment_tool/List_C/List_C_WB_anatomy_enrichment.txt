@@ -1,0 +1,23 @@
+Term	Expected	Observed	Enrichment Fold Change	P value	Q value
+germ line WBbt:0005784	2.8e+02	459	1.6	9.1e-26	2.7e-23
+reproductive system WBbt:0005747	3.4e+02	490	1.5	5.9e-17	8.8e-15
+Z4.a WBbt:0007025	25	57	2.3	3.3e-09	3.3e-07
+Z1.p WBbt:0007023	25	57	2.3	3.5e-09	3.3e-07
+male distal tip cell WBbt:0006864	25	57	2.3	4e-09	3.3e-07
+reproductive tract WBbt:0005744	76	124	1.6	5.2e-08	2.6e-06
+Z2 WBbt:0004576	2.2	10	4.6	8.4e-06	0.00036
+Z3 WBbt:0004575	2.2	10	4.6	8.4e-06	0.00036
+Psub2 WBbt:0006873	1.9	9	4.8	1.4e-05	0.00048
+oocyte WBbt:0006797	6.9	19	2.8	2e-05	0.0006
+AB WBbt:0004015	4.8	15	3.1	2.4e-05	0.00065
+Psub3 WBbt:0006875	2.7	10	3.8	6e-05	0.0015
+Psub1 WBbt:0006874	9.6	22	2.3	0.00011	0.0026
+EMS WBbt:0006876	2.9	8	2.8	0.0021	0.045
+ABaraaap WBbt:0005861	1.4	5	3.7	0.0021	0.045
+Q cell WBbt:0008598	1.4	5	3.5	0.0029	0.054
+ABaraaaa WBbt:0006360	1.5	5	3.4	0.0033	0.059
+ABplappp WBbt:0006470	1.5	5	3.3	0.0038	0.064
+epithelial system WBbt:0005730	2.1e+02	244	1.2	0.0039	0.064
+ABplaappa WBbt:0006519	1.6	5	3.2	0.0044	0.065
+ABpraappp WBbt:0006270	1.6	5	3.2	0.0044	0.065
+ABpraappa WBbt:0006035	1.7	5	3	0.0063	0.086

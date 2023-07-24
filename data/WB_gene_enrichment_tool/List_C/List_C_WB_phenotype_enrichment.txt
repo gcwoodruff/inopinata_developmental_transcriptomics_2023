@@ -1,0 +1,45 @@
+Term	Expected	Observed	Enrichment Fold Change	P value	Q value
+gametogenesis variant WBPhenotype:0000774	59	101	1.7	6.6e-08	1.6e-05
+cell cycle defective early emb WBPhenotype:0001114	4.2	16	3.8	1e-06	0.00012
+meiotic chromosome segregation variant WBPhenotype:0001499	9.1	25	2.7	1.7e-06	0.00014
+ectopic cleavage furrow early emb WBPhenotype:0002501	2.4	11	4.6	3.4e-06	0.0002
+aneuploidy WBPhenotype:0001882	8.3	23	2.8	3.5e-06	0.0002
+microtubule organization biogenesis variant WBPhenotype:0001588	13	30	2.4	4.3e-06	0.0002
+cytoplasmic appearance variant WBPhenotype:0001427	6.1	18	3	1.1e-05	0.00036
+spindle defective early emb WBPhenotype:0000759	11	26	2.4	1.1e-05	0.00036
+cytokinesis variant WBPhenotype:0002408	13	30	2.3	1.1e-05	0.00036
+embryonic cell physiology variant WBPhenotype:0000763	19	38	2	1.4e-05	0.00036
+ectopic expression transgene WBPhenotype:0001276	6.3	18	2.8	2e-05	0.00043
+cytoplasmic dynamics defective early emb WBPhenotype:0001079	2.9	11	3.8	3e-05	0.00059
+nuclear division variant WBPhenotype:0000504	10	23	2.3	7e-05	0.0013
+vulval cell induction increased WBPhenotype:0000218	10	23	2.2	0.00012	0.0021
+progeny variant WBPhenotype:0000069	36	58	1.6	0.00015	0.0024
+cytoplasmic streaming phenotype WBPhenotype:0002612	3.5	11	3.1	0.00018	0.0027
+P granule abnormal WBPhenotype:0001301	2.5	9	3.6	0.00018	0.0027
+cell death variant WBPhenotype:0000729	36	57	1.6	0.0003	0.0039
+multiple nuclei early emb WBPhenotype:0001143	4.8	13	2.7	0.0003	0.0039
+hermaphrodite sexual development variant WBPhenotype:0001022	3.2	10	3.1	0.00031	0.0039
+germline nuclear positioning variant WBPhenotype:0001952	12	24	2	0.00037	0.0042
+gonad development variant WBPhenotype:0000691	23	39	1.7	0.00039	0.0043
+embryonic development variant WBPhenotype:0000749	1.6e+02	198	1.3	0.00045	0.0047
+sister chromatid segregation defective early emb WBPhenotype:0000772	4	11	2.8	0.00062	0.0061
+male somatic gonad development variant WBPhenotype:0002188	5.8	14	2.4	0.00072	0.0069
+apoptosis fails to occur WBPhenotype:0000184	4.3	11	2.6	0.0012	0.011
+fertility reduced WBPhenotype:0001384	1.6e+02	197	1.2	0.0013	0.012
+oocyte septum formation variant WBPhenotype:0001810	7.4	16	2.2	0.0013	0.012
+large cytoplasmic granules early emb WBPhenotype:0001082	2.3	7	3.1	0.0017	0.014
+embryonic cell morphology variant WBPhenotype:0000770	7.7	16	2.1	0.0019	0.015
+spindle orientation variant WBPhenotype:0001681	4.5	11	2.4	0.0019	0.015
+masculinization of germline WBPhenotype:0000683	2.3	7	3	0.0019	0.015
+vulva cell fate specification variant WBPhenotype:0000220	13	24	1.8	0.0022	0.016
+spindle position defective early emb WBPhenotype:0000762	2.7	7	2.6	0.0059	0.041
+accumulated germline cell corpses WBPhenotype:0001180	11	19	1.8	0.0064	0.044
+rachis wide WBPhenotype:0001943	2.8	7	2.5	0.0065	0.044
+hermaphrodite reproductive system morphology variant WBPhenotype:0001335	40	55	1.4	0.009	0.058
+protruding vulva WBPhenotype:0000697	36	50	1.4	0.009	0.058
+germ cell partition morphology variant WBPhenotype:0001977	3.7	8	2.2	0.012	0.074
+sterile F1 WBPhenotype:0001036	3.1	7	2.3	0.012	0.074
+failure to hatch WBPhenotype:0000351	2.6	6	2.3	0.014	0.081
+transgene induced cosuppression variant WBPhenotype:0000744	3.2	7	2.2	0.014	0.081
+germ cell compartment small WBPhenotype:0001974	2.7	6	2.3	0.016	0.092
+epithelial development variant WBPhenotype:0000701	3.9	8	2	0.017	0.093
