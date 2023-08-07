@@ -169,6 +169,7 @@ write.table(resTC_iL4[order(-resTC_iL4$log2FoldChange),], file= 'time_course_LRT
 
 #make some lists
 
+resTC_iL4 <- read.table("time_course_LRT_results_Speciesinopinata.StageL4_by_int_term.tsv", sep="\t", header=TRUE)
 
 resTC_iL4$int_term_x_neg_one <- resTC_iL4$log2FoldChange*(-1)
 
@@ -177,6 +178,8 @@ resTC_iL4$neg.log.p.adj <- -(log10(resTC_iL4$padj))
 resTC_iL4$int_term_abs <- abs(resTC_iL4$log2FoldChange)
 
 resTC_iL4$is.sig <- resTC_iL4$padj < 0.05
+sum(resTC_iL4$padj < 0.05, na.rm=TRUE)
+#7204
 
 resTC_iL4.om <- na.omit(resTC_iL4)
 
@@ -193,11 +196,19 @@ resTC_iL4$int.direction <- ifelse(resTC_iL4$int_term_x_neg_one >0, "positive","n
 dat_sig <- subset(resTC_iL4, padj < 0.05)
 
 nrow(dat_sig)
-#7204
 
+sum(resTC_iL4$padj < 0.05, na.rm=TRUE)
+#7204
+sum(resTC_iL4$padj < 0.05, na.rm=TRUE)/10717
+#0.672203
 
 #order by asbolute value of interaction term 
 dat_order_abs_val_int_h_l <- dat_sig[order(-dat_sig$int_term_abs),]
+
+
+write.table(dat_order_abs_val_int_h_l, file= 'abs_val_Species--L4-adult_int_term_sig.tsv',sep="\t", quote = FALSE)
+	#this is a supplemental table
+
 
 dat_order_abs_val_int_h_l_list <- head(dat_order_abs_val_int_h_l,720)
 
@@ -212,9 +223,10 @@ dat_order_int_h_l <- dat_sig[order(-dat_sig$int_term_x_neg_one),]
 dat_order_int_h_l_list <- head(dat_order_int_h_l,720)
 
 write.table(dat_order_int_h_l_list, file= 'LIST_B_top_ten_perc_positive_Species--L4-adult_int_term_only_sig.tsv',sep="\t", quote = FALSE)
+	#this is a supplemental table
 
 
-#order by value of interaction term (low to high; top negative interactions)  ; this is the positive interactions list
+#order by value of interaction term (low to high; top negative interactions)  ; this is the negative interactions list
 
 
 dat_order_int_l_h <- dat_sig[order(dat_sig$int_term_x_neg_one),]
@@ -222,7 +234,7 @@ dat_order_int_l_h <- dat_sig[order(dat_sig$int_term_x_neg_one),]
 dat_order_int_l_h_list <- head(dat_order_int_l_h,720)
 
 write.table(dat_order_int_l_h_list, file= 'LIST_C_top_ten_perc_negative_Species--L4-adult_int_term_only_sig.tsv',sep="\t", quote = FALSE)
-
+	#this is a supplemental table
 
 
 #order by p value
@@ -234,6 +246,47 @@ dat_order_int_p_list <- head(dat_order_int_p,720)
 
 write.table(dat_order_int_p_list, file= 'LIST_D_top_ten_perc_p_value_Species--L4-adult_int_term_only_sig.tsv',sep="\t", quote = FALSE)
 
+
+#L3 list
+
+L3 <- read.table("L3_stats_results.tsv", sep="\t", header=TRUE)
+
+
+L3$log2FoldChange_abs <- abs(L3$log2FoldChange)
+
+dat_sig <- subset(L3, padj < 0.05)
+
+the_list <- head(dat_sig[order(-dat_sig$log2FoldChange_abs),],606)
+
+write.table(the_list, file= 'L3_list_compare_TGFbeta.tsv',sep="\t", quote = FALSE)
+
+
+#L4 list
+
+L4 <- read.table("L4_stats_results.tsv", sep="\t", header=TRUE)
+
+
+L4$log2FoldChange_abs <- abs(L4$log2FoldChange)
+
+dat_sig <- subset(L4, padj < 0.05)
+
+the_list <- head(dat_sig[order(-dat_sig$log2FoldChange_abs),],590)
+
+write.table(the_list, file= 'L4_list_compare_TGFbeta.tsv',sep="\t", quote = FALSE)
+
+
+#L3 list
+
+adult <- read.table("adult_stats_results.tsv", sep="\t", header=TRUE)
+
+
+adult$log2FoldChange_abs <- abs(adult$log2FoldChange)
+
+dat_sig <- subset(adult, padj < 0.05)
+
+the_list <- head(dat_sig[order(-dat_sig$log2FoldChange_abs),],713)
+
+write.table(the_list, file= 'adult_list_compare_TGFbeta.tsv',sep="\t", quote = FALSE)
 
 #PCA
 
