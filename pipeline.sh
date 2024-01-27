@@ -370,7 +370,7 @@ sed -i -e 's/[a-z]$//g' 03_elegans_gene_ids
 
 #
 #I did a simplemine search for all elegans genes earlier
-	#see this tool to get simplemine_results.txt ()
+	#see this tool to get simplemine_results.txt (https://wormbase.org/tools/mine/simplemine.cgi)
 cp $wkdir/06_get_1-1_inopinata_elegans_orthologs/simplemine_results.txt simplemine_results.txt
 
 #human-redable gene names are here
