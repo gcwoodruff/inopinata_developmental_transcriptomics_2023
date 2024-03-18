@@ -1,0 +1,15 @@
+sample_id	Tube	Species	Strain	Stage	Replicate	Date_worms_isolated	Date_RNA_prepared	Num_stage
+sample_1	Tube 1	inopinata	NKZ2	L3	replicate 1	June_20_2018	Sept_24_2019	1
+sample_2_all	Tube 2	inopinata	NKZ2	L3	replicate 2	June_20_2018	Oct_10_2019	1
+sample_3_all	Tube 3	inopinata	NKZ2	L3	replicate 3	June_20_2018	Oct_14_2019	1
+sample_4	Tube 4	inopinata	NKZ2	L3	replicate 4	June_20_2018	Oct_16_2019	1
+sample_5	Tube 5	inopinata	NKZ2	L3	replicate 5	June_20_2018	Oct_17_2019	1
+sample_6	Tube 6	inopinata	NKZ2	L4	replicate 1	June_21_2018	Oct_16_2019	2
+sample_7	Tube 7	inopinata	NKZ2	L4	replicate 2	June_21_2018	Sept_24_2019	2
+sample_9	Tube 9	inopinata	NKZ2	L4	replicate 4	June_21_2018	Oct_14_2019	2
+sample_10	Tube 10	inopinata	NKZ2	L4	replicate 5	June_21_2018	Oct_10_2019	2
+sample_11	Tube 11	inopinata	NKZ2	adult	replicate 1	June_22_2018	Oct_14_2019	3
+sample_12	Tube 12	inopinata	NKZ2	adult	replicate 2	June_22_2018	Oct_16_2019	3
+sample_13	Tube 13	inopinata	NKZ2	adult	replicate 3	June_22_2018	Sept_24_2019	3
+sample_14	Tube 14	inopinata	NKZ2	adult	replicate 4	June_23_2018	Oct_17_2019	3
+sample_15	Tube 15	inopinata	NKZ2	adult	replicate 5	June_22_2018	Oct_10_2019	3
