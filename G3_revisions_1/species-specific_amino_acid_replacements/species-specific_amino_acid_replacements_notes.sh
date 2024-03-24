@@ -58,9 +58,9 @@ awk 'BEGIN {FS="\t"} {OFS="\t"} {print $1}' $wkdir/orthogroup_counts/orthogroup_
 grep -w -f single-copy_orthogroup_OG_IDs.txt Orthogroups.csv > single-copy_orthogroup_protein_ids.tsv
 
 #then, fasta files containing the proteins for each single-copy orthologous group were generated. 
-#This was ultimately done by transposing single-copy_orthogroup_protein_ids.tsv and separating it into 3,290 files listing the names of the proteins. These are in the file: prot_lists.zip (https://github.com/gcwoodruff/inopinata_developmental_transcriptomics_2023/blob/main/G3_revisions_1/species-specific_amino_acid_replacements/prot_lists.zip)
+#This was ultimately done by transposing single-copy_orthogroup_protein_ids.tsv and separating it into many files listing the names of the proteins. These are in the file: prot_lists.zip (https://github.com/gcwoodruff/inopinata_developmental_transcriptomics_2023/blob/main/G3_revisions_1/species-specific_amino_acid_replacements/prot_lists.zip)
 
-#Then, ALL of the longest-isoform Caenorhabditis proteins for the species of interest were put into a single file, and the protein sequences themselves were retrieved with fasta_filter.pl (Thanks Kevin Nyberg, who wrote this many years ago). This generated 3,290 fasta files, each containing 14 orthologous proteins, each from 14 species. These are here in the file fasta_filter_out.zip (https://github.com/gcwoodruff/inopinata_developmental_transcriptomics_2023/blob/main/G3_revisions_1/species-specific_amino_acid_replacements/fasta_filter_out.zip)
+#Then, ALL of the longest-isoform Caenorhabditis proteins for the species of interest were put into a single file, and the protein sequences themselves were retrieved with fasta_filter.pl (Thanks Kevin Nyberg, who wrote this many years ago). This generated many fasta files, each containing 14 orthologous proteins, each from 14 species. These are here in the file fasta_filter_out.zip (https://github.com/gcwoodruff/inopinata_developmental_transcriptomics_2023/blob/main/G3_revisions_1/species-specific_amino_acid_replacements/fasta_filter_out.zip)
 
 #These were then aligned with mafft
 
@@ -142,7 +142,7 @@ python transpose_folder.py
 
 python species-specific_amino_acid_changes_b.py
 
-#this made 3,290 files, each being a row of the species-specific amino acid replacement data. These were then combined
+#this made many files, each being a row of the species-specific amino acid replacement data. These were then combined
 
 cd $wkdir/species-specific_amino_acid_changes_b_py_out/
 
